@@ -3,3 +3,15 @@
 # Sobre o projeto
 
 Esta é uma aplicação backend feita em Java com Spring Boot e JPA/Hibernate, e foi desenvolvida no curso **Java COMPLETO Programação Orientada a Objetos** do professor Nélio Alves na Udemy.
+
+Este projeto consiste na aplicação de um CRUD completo usando banco de dados H2 para testes e seguindo a arquitetura de três camadas.
+
+# Tecnlogias utilizadas no desenvolvimento
+- Java
+- Spring Boot
+- JPA/Hibernate
+- Postman
+- Maven
+- Apache Tomcat
+- H2 Database
+- PostgreSQL
