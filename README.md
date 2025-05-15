@@ -17,4 +17,4 @@ Este projeto consiste na aplicação de um CRUD completo usando banco de dados H
 - PostgreSQL
 
 # Modelo de Domínio
-<img src="https://media.discordapp.net/attachments/729850180207378444/1360672293789106306/modelodominio.png?ex=67fbf852&is=67faa6d2&hm=0dbf4bcb85ec28ac2197158521e4d0ae8a2b9fe02f3559c4bd310a5e4cfec2f4&=&format=webp&quality=lossless">
+<img src="https://github.com/user-attachments/assets/e0157362-4396-45de-b326-1efd3b7988a9">
